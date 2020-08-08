@@ -1,8 +1,7 @@
 ﻿/**
  * VRC Build Size Viewer
  * Created by MunifiSense
- * 
- * 
+ * https://github.com/MunifiSense/VRChat-Build-Size-Viewer
  */
 
 using System.Collections;

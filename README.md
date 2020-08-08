@@ -3,7 +3,7 @@
  It's kinda ugly. So sorry about that. Made it for myself, but thought it might be handy for others!
 
 ## How To Use
-- Just place the file into your Unity project in Assets/Editor.  
+- Just place the file BuildSizeViewer.cs into your Unity project in Assets/Editor.  
 - Go to Window/Muni/VRC Build Size Viewer.  
 - Then build a world or an avatar in Unity, either for testing or upload.  
 - Click Read Build Log.  
