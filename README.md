@@ -9,4 +9,4 @@
  Click Read Build Log.
  TADA.
  
- ![Image of VRC Build Size Viewer] (https://i.imgur.com/ImG0Ak9.png)
+![Image of VRC Build Size Viewer](https://i.imgur.com/ImG0Ak9.png)
