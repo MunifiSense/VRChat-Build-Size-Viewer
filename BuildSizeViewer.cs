@@ -103,7 +103,7 @@ public class BuildSizeViewer : EditorWindow {
 
         string line = reader.ReadLine();
         while(line != null) {
-            if ((line.Contains("customscene") && line.Contains(".vrcw"))
+            if ((line.Contains("scene-") && line.Contains(".vrcw"))
                 || (line.Contains("avtr") && line.Contains(".prefab.unity3d"))) {
                 //Debug.Log("Build found!");
                 buildObjectList = new List<BuildObject>();
