@@ -4,6 +4,7 @@
  * https://github.com/MunifiSense/VRChat-Build-Size-Viewer
  */
 
+#if UNITY_EDITOR
 using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
@@ -141,3 +142,4 @@ public class BuildSizeViewer : EditorWindow {
         return true;
     }
 }
+#endif
