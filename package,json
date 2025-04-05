@@ -1,0 +1,11 @@
+{
+  "name": "com.muni.buildsizeviewer",
+  "version": "1.2.1",
+  "displayName": "Muini VRC Build Size Viewer",
+  "description": "A script for viewing the build size for VRC worlds and avatars after building."
+ },
+  "author": {
+    "name": "MunifiSense",
+    "url": "https://github.com/MunifiSense/VRChat-Build-Size-Viewer"
+  }
+}
